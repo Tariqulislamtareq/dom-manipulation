@@ -1,0 +1,86 @@
+.display-none{
+	display: none !important;
+}
+.display-block{
+	display: block;
+}
+
+.border-bottom{
+	border-bottom: 2px solid #ffff00 !important;
+}
+.tab-item-container{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #eae4e433;
+    padding: 0 10px 0 10px;
+}
+.tab-item-container div h2{
+	cursor: pointer;
+}
+
+
+.reviews-views{
+	    display: flex !important;
+    width: 100% !important;
+    justify-content: flex-start;
+    align-items: center;
+}
+.reviewer .reviews-views small{
+	margin: 12px !important;
+}
+.reviews-views .author{
+	margin-right: 10px;
+}
+
+.panel-body .reviews-listing .review {
+	    display: flex;
+    flex-direction: column-reverse;
+}
+
+.panel-body .reviews-listing .review .comments-ratings{
+	display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.panel-body .reviews-listing .review .comments-ratings .details{
+	width: 100%;
+}
+.panel-body .reviews-listing .review .comments-ratings .ratings{
+	padding-left: 0 !important;
+}
+
+.basket-related .price-large {
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.col-content{
+	width: 70% !important;
+}
+.col-basket{
+	width: 30% !important;
+}
+.product-main-image {
+    float: right;
+    width: 309px!important;
+    height: 372px;
+}
+
+.dummy-trustpilot{
+	display: none!important;
+}
+
+.elogistic{
+	margin-top: 12px
+}
+
+.product-will-it-fit{
+	display: none;
+}
+.carosel-container{
+	
+}
+
+//https://www.espares.co.uk/product/es1566874?vwo_opt_out=1
